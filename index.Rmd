@@ -1,0 +1,35 @@
+---
+title: "Nguồn An Lạc"
+author: "HT. Thích Thanh Từ"
+site: bookdown::bookdown_site
+fontsize: 12pt
+output:
+  bookdown::gitbook:
+    config:
+      fontsettings:
+        theme: night
+        family: serif
+        size: 4
+
+      search:
+            engine: fuse      
+documentclass: book
+biblio-style: apalike
+link-citations: yes
+classoption: oneside
+
+description: "Nguồn An Lạc - HT. Thích Thanh Từ"
+cover-image: "images/cover.jpg"
+---
+
+# Lời đầu sách {- #loi-dau-sach}
+
+Quyển sách *“Nguồn an lạc”* này, được biên tập từ các bài giảng phổ thông của Hòa thượng Viện Trưởng tại Thiền viện Trúc Lâm và các Thiền viện trực thuộc, cũng như đạo tràng các nơi.  
+
+Gần đây, nhận thấy nhu cầu học Phật và nhất là lòng hâm mộ tu thiền của giới Tăng Ni cũng như Phật tử ngày càng cao, nên chúng tôi đã xin phép Hòa thượng biên tập lại các bài giảng của Ngài, nhằm đáp ứng phần nào nhu cầu trên. Được sự chấp thuận và kiểm chứng của Hòa thượng, quyển sách ra mắt độc giả với tất cả sự tận tâm tận lực của chúng tôi.  
+
+Tuy nhiên, vì là văn nói nên tác phẩm không sao tránh khỏi sự trùng lặp tất yếu của nó. Rất mong độc giả đạt ý quên lời. Được vậy, hy vọng cuốn sách sẽ đem lại nhiều lợi ích thiết thực cho bạn đọc.  
+
+<div class="align-right">
+**Ban biên tập**
+</div>
